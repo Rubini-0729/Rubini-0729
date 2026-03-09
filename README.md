@@ -53,7 +53,7 @@
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://github.com/Rubini-0729/Rubini-0729/blob/output/github-snake.svg" />
+  <img src="https://github.com/Rubini-0729/Rubini-0729/raw/output/github-snake.svg" />
 </p>
 
 ---
