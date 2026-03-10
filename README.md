@@ -29,7 +29,7 @@
 
 <p align="left">
 
-  <a href="mailto:rubini29082006@gmail.com" target="_blank"><img src="./gmail.png" width="40" height="40" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rubini29082006@gmail.com" target="_blank"><img src="./gmail.png" width="40" height="40" alt="Email" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Rubini-0729" target="_blank"><img src="./github.png" width="40" height="40" alt="GitHub" /></a>
