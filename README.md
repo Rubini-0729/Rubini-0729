@@ -29,19 +29,13 @@
 
 <p align="left">
 
-  <a href="mailto:rubini29082006@gmail.com"> 
-    <img src="./gmail.png" width="40" height="40" alt="Email" />
-  </a>
+  <a href="mailto:rubini29082006@gmail.com"><img src="./gmail.png" width="40" height="40" alt="Email" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/Rubini-0729" target="_blank"> 
-    <img src="./github.png" width="40" height="40" alt="GitHub" />
-  </a>
+  <a href="https://github.com/Rubini-0729" target="_blank"><img src="./github.png" width="40" height="40" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/rubini-t-359219291" target="_blank">
-    <img src="./linkedin.png" width="40" height="40" alt="Linkedin" />
-  </a>
+  <a href="https://www.linkedin.com/in/rubini-t-359219291" target="_blank"><img src="./linkedin.png" width="40" height="40" alt="Linkedin" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -161,10 +155,10 @@
   <table>
     <tr>
       <td>
-        <img src="./profile/stats.svg" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rubini-0729&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="./profile/top-langs.svg" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubini-0729&layout=compact&theme=midnight-purple" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -177,7 +171,7 @@
 
 <div align="center">
 
-![Streak](./profile/streak.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubini-0729&theme=blue_navy" alt="GitHub Streak" />
 
 </div>
 
