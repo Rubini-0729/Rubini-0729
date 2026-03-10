@@ -161,10 +161,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Rubini-0729&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+        <img src="./profile/stats.svg" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rubini-0729&layout=compact&theme=midnight-purple" alt="Top Languages" />
+        <img src="./profile/top-langs.svg" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -177,7 +177,7 @@
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rubini-0729&theme=blue_navy)
+![Streak](./profile/streak.svg)
 
 </div>
 
