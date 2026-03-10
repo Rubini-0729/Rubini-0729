@@ -162,10 +162,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rubini-0729&show_icons=true&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rubini-0729&show_icons=true&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubini-0729&layout=compact&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rubini-0729&layout=compact&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
