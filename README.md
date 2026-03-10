@@ -65,13 +65,13 @@
 <ul align="left">
   <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
 
-  <li>🔎 <strong>RAG</strong><br>Learning retrieval pipelines, embeddings, vector databases, and LLM integration using LangChain and Hugging Face.</li><br>
+  <li>🔎 <strong>RAG and Hugging Face.</strong></li><br>
 
   <li>☁️ <strong>Cloud Computing (Azure.OpenAI)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
 
   <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
 
-  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
+  <li>🛠️ <strong>DevOps</strong><br>Docker, basics.</li>
 </ul>
 
 <br />
