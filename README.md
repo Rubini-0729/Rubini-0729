@@ -29,7 +29,7 @@
 
 <p align="left">
 
-  <a href="mailto:rubini29082006@gmail.com" target="_blank"> 
+  <a href="mailto:rubini29082006@gmail.com"> 
     <img src="./gmail.png" width="40" height="40" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,6 +80,78 @@
   <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
 </ul>
 
+<br />
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+<p align="left">
+  <b>Languages:</b><br>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="left">
+  <b>Version Control:</b><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Design:</b><br>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF4B4B?style=for-the-badge&logo=lovable&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=Balsamiq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lizard-8B4513?style=for-the-badge&logo=lizard&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Editors & IDEs:</b><br>
+  <img src="https://img.shields.io/badge/VS%20Code-0078DB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4A154B?style=for-the-badge&logo=antigravity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>AI Productivity:</b><br>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-5B4638?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gamma-7F52FF?style=for-the-badge&logo=gamma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1B1B1B?style=for-the-badge&logo=perplexity&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Blogging & Community:</b><br>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Backend & Web:</b><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<p align="left">
+  <b>Machine Learning:</b><br>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Hosting & Deployment:</b><br>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -89,10 +161,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Rubini-0729&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Rubini-0729&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubini-0729&layout=compact&theme=midnight-purple" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rubini-0729&layout=compact&theme=midnight-purple" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -121,7 +193,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Everybody%20has%20talent%2C%20but%20ability%20takes%20hard%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
