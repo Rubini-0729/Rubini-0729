@@ -29,13 +29,13 @@
 
 <p align="left">
 
-  [![Email](./gmail.png)](mailto:rubini29082006@gmail.com)
+  <a href="mailto:rubini29082006@gmail.com" target="_blank"><img src="./gmail.png" width="40" height="40" alt="Email" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  [![GitHub](./github.png)](https://github.com/Rubini-0729)
+  <a href="https://github.com/Rubini-0729" target="_blank"><img src="./github.png" width="40" height="40" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  [![Linkedin](./linkedin.png)](https://www.linkedin.com/in/rubini-t-359219291)
+  <a href="https://www.linkedin.com/in/rubini-t-359219291" target="_blank"><img src="./linkedin.png" width="40" height="40" alt="Linkedin" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
