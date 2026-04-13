@@ -194,7 +194,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=When%20you%20lose%20your%20desire%20for%20things%20that%20do%20not%20matter%2C%20you%20will%20be%20free.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=You%20have%20the%20freedom%20to%20be%20yourself%2C%20your%20true%20self%2C%20here%20and%20now%2C%20and%20nothing%20can%20stand%20in%20your%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
