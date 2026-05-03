@@ -194,7 +194,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Many%20people%20will%20walk%20in%20and%20out%20of%20your%20life%2C%20but%20only%20true%20friends%20will%20leave%20footprints%20in%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=Life%20is%20a%20traveling%20to%20the%20edge%20of%20knowledge%2C%20then%20a%20leap%20taken.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
