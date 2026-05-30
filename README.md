@@ -194,7 +194,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=Genius%20is%20the%20ability%20to%20act%20rightly%20without%20precedent%20-%20the%20power%20to%20do%20the%20right%20thing%20the%20first%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=You%20can%20easily%20judge%20the%20character%20of%20a%20man%20by%20how%20he%20treats%20those%20who%20can%20do%20nothing%20for%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
