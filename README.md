@@ -194,7 +194,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Just%20because%20you%20are%20happy%20it%20does%20not%20mean%20that%20the%20day%20is%20perfect%20but%20that%20you%20have%20looked%20beyond%20its%20imperfections.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Winners%20are%20not%20afraid%20of%20losing.%20But%20losers%20are.%20Failure%20is%20part%20of%20the%20process%20of%20success.%20People%20who%20avoid%20failure%20also%20avoid%20success.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
