@@ -194,7 +194,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=We%20build%20too%20many%20walls%20and%20not%20enough%20bridges.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Receive%20without%20complaint%2C%20Work%20with%20fate.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
