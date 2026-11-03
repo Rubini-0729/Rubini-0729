@@ -194,7 +194,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=The%20primary%20cause%20of%20unhappiness%20is%20never%20the%20situation%20but%20your%20thoughts%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Even%20if%20you%20persuade%20me%2C%20you%20won't%20persuade%20me.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
