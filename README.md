@@ -194,7 +194,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Tukey&quote=An%20approximate%20answer%20to%20the%20right%20question%20is%20worth%20a%20great%20deal%20more%20than%20a%20precise%20answer%20to%20the%20wrong%20question.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=Not%20all%20readers%20are%20leaders%2C%20but%20all%20leaders%20are%20readers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
